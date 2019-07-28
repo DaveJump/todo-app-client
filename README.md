@@ -1,29 +1,11 @@
-# client
+#### Summary
 
-## Project setup
-```
-npm install
-```
+一款基于vue、koa、mongodb开发的简易的移动端todo应用。
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+前端项目已由typescript重构。
 
-### Compiles and minifies for production
-```
-npm run build
-```
+项目已上线: [todo-app](https://todo.davejump66.top)
 
-### Run your tests
-```
-npm run test
-```
+#### Usage
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+`yarn dev` 本地运行
