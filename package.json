@@ -73,9 +73,9 @@
   ],
   "appConfig": {
     "name": "client",
-    "title": "App",
-    "description": "A mobile app base on vant",
-    "keywords": "app mobile",
+    "title": "Todo-App",
+    "description": "A simple todo app base on vant",
+    "keywords": "app mobile todo",
     "env": "",
     "publicPath": "/"
   },
