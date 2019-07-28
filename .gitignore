@@ -84,3 +84,5 @@ dist
 dist/
 
 .env.local
+
+ecosystem.config.js
