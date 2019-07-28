@@ -1,0 +1,33 @@
+%display-flex{
+  display: flex;
+}
+%flex-center{
+  justify-content: center;
+}
+%flex-end{
+  justify-content: flex-end;
+}
+%flex-item-center{
+  align-items: center;
+}
+%flex-dir-col{
+  flex-direction: column;
+}
+%flex-between{
+  justify-content: space-between;
+}
+%text-overflow{
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+%single-page-common{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding-top: 60px;
+  // background-color: $backgroundColor;
+  // height: calc(100vh - 60px);
+  // z-index: 5;
+}
