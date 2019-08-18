@@ -7,8 +7,8 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "dev": "vue-cli-service serve --copy",
-    "deploy": "pm2 deploy production update"
+    "deploy": "pm2 deploy production update",
+    "dev": "vue-cli-service serve --copy"
   },
   "dependencies": {
     "async-validator": "^1.12.0",
@@ -17,6 +17,7 @@
     "jsencrypt": "^3.0.0-rc.1",
     "lodash": "^4.17.11",
     "moment": "^2.24.0",
+    "register-service-worker": "^1.6.2",
     "vant": "^1.5.2",
     "vue": "^2.6.10",
     "vue-meta": "^1.5.8",
@@ -26,6 +27,7 @@
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.9.0",
     "@vue/cli-plugin-eslint": "^3.9.0",
+    "@vue/cli-plugin-pwa": "^3.10.0",
     "@vue/cli-service": "^3.9.0",
     "@vue/eslint-config-standard": "^4.0.0",
     "babel-eslint": "^10.0.1",
