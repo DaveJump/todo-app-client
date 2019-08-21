@@ -9,6 +9,8 @@ import 'vant/lib/index.css'
 import 'assets/scss/common.scss'
 import 'assets/iconfont/iconfont.css'
 
+import './registerServiceWorker'
+
 Vue.use(vant)
 Vue.use(autoRegister)
 

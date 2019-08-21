@@ -39,7 +39,7 @@ export default {
             resolve()
           }
         )
-      }).catch(e => {})
+      })
     },
     handleInputChange: debounce(function () {
       this.handleValidate()

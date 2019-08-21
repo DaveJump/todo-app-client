@@ -105,6 +105,7 @@ export default {
             console.error(e)
           }
         })
+        .catch(e => {})
     }
   }
 }

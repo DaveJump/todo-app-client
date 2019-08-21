@@ -154,6 +154,7 @@ export default {
             console.error(e)
           }
         })
+        .catch(e => {})
     },
     handleSetCla (val) {
       if (val) {

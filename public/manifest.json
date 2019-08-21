@@ -1,6 +1,6 @@
 {
-  "name": "client",
-  "short_name": "client",
+  "name": "Todo App",
+  "short_name": "Todo App",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",

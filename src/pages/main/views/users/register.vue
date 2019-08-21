@@ -135,6 +135,7 @@ export default {
             console.error(e)
           }
         })
+        .catch(e => {})
     },
     handleCloseRegister () {
       this.visible = false
