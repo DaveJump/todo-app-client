@@ -1,6 +1,7 @@
 /* eslint-disable no-console */
 
 import { register } from 'register-service-worker'
+import { Notify } from 'vant'
 
 if (process.env.NODE_ENV === 'production') {
   register(`${process.env.BASE_URL}service-worker.js`, {
@@ -20,7 +21,14 @@ if (process.env.NODE_ENV === 'production') {
       console.log('New content is downloading.')
     },
     updated () {
-      console.log('New content is available; please refresh.')
+      Notify({
+        type: 'primary',
+        message: '应用内容有更新，请点击刷新页面',
+        duration: 0,
+        onClick () {
+          window.location.reload()
+        }
+      })
     },
     offline () {
       console.log('No internet connection found. App is running in offline mode.')
