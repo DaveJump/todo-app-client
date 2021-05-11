@@ -632,7 +632,7 @@
 
 "@babel/runtime@7.x":
   version "7.6.0"
-  resolved "http://r.cnpmjs.org/@babel/runtime/download/@babel/runtime-7.6.0.tgz#4fc1d642a9fd0299754e8b5de62c631cf5568205"
+  resolved "https://r.cnpmjs.org/@babel/runtime/download/@babel/runtime-7.6.0.tgz#4fc1d642a9fd0299754e8b5de62c631cf5568205"
   integrity sha1-T8HWQqn9Apl1Totd5ixjHPVWggU=
   dependencies:
     regenerator-runtime "^0.13.2"
@@ -788,7 +788,7 @@
 
 "@vant/icons@1.1.13":
   version "1.1.13"
-  resolved "http://r.cnpmjs.org/@vant/icons/download/@vant/icons-1.1.13.tgz#ea77298f4f2b19ccc761005068a2c7436098e4d4"
+  resolved "https://r.cnpmjs.org/@vant/icons/download/@vant/icons-1.1.13.tgz#ea77298f4f2b19ccc761005068a2c7436098e4d4"
   integrity sha1-6ncpj08rGczHYQBQaKLHQ2CY5NQ=
 
 "@vue/babel-helper-vue-jsx-merge-props@^1.0.0":
@@ -4370,9 +4370,9 @@ hoopy@^0.1.4:
   integrity sha512-HRcs+2mr52W0K+x8RzcLzuPPmVIKMSv97RGHy0Ea9y/mpcaK+xTrjICA04KAHi4GRzxliNqNJEFYWHghy3rSfQ==
 
 hosted-git-info@^2.1.4:
-  version "2.7.1"
-  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.7.1.tgz#97f236977bd6e125408930ff6de3eec6281ec047"
-  integrity sha512-7T/BxH19zbcCTa8XkMlbK5lTo1WtgkFi3GvdWEyNuc4Vex7/9Dqbnpsf4JMydcfj9HCg4zUWFTL3Za6lapg5/w==
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
+  integrity sha512-mxIDAb9Lsm6DoOJ7xH+5+X4y1LU/4Hi50L9C5sIswK3JzULS4bwk1FvjdBgvYR4bzT4tuUQiC15FE2f5HbLvYw==
 
 hpack.js@^2.1.6:
   version "2.1.6"
@@ -8902,7 +8902,7 @@ validate-npm-package-license@^3.0.1:
 
 vant@^2.2.0:
   version "2.2.0"
-  resolved "http://r.cnpmjs.org/vant/download/vant-2.2.0.tgz#d0203f76435da034ff1e9036373971554e61edbc"
+  resolved "https://r.cnpmjs.org/vant/download/vant-2.2.0.tgz#d0203f76435da034ff1e9036373971554e61edbc"
   integrity sha1-0CA/dkNdoDT/HpA2NzlxVU5h7bw=
   dependencies:
     "@babel/runtime" "7.x"
