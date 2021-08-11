@@ -632,7 +632,7 @@
 
 "@babel/runtime@7.x":
   version "7.6.0"
-  resolved "http://r.cnpmjs.org/@babel/runtime/download/@babel/runtime-7.6.0.tgz#4fc1d642a9fd0299754e8b5de62c631cf5568205"
+  resolved "https://r.cnpmjs.org/@babel/runtime/download/@babel/runtime-7.6.0.tgz#4fc1d642a9fd0299754e8b5de62c631cf5568205"
   integrity sha1-T8HWQqn9Apl1Totd5ixjHPVWggU=
   dependencies:
     regenerator-runtime "^0.13.2"
@@ -788,7 +788,7 @@
 
 "@vant/icons@1.1.13":
   version "1.1.13"
-  resolved "http://r.cnpmjs.org/@vant/icons/download/@vant/icons-1.1.13.tgz#ea77298f4f2b19ccc761005068a2c7436098e4d4"
+  resolved "https://r.cnpmjs.org/@vant/icons/download/@vant/icons-1.1.13.tgz#ea77298f4f2b19ccc761005068a2c7436098e4d4"
   integrity sha1-6ncpj08rGczHYQBQaKLHQ2CY5NQ=
 
 "@vue/babel-helper-vue-jsx-merge-props@^1.0.0":
@@ -6598,9 +6598,9 @@ path-key@^2.0.0, path-key@^2.0.1:
   integrity sha1-QRyttXTFoUDTpLGRDUDYDMn0C0A=
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha512-GSmOT2EbHrINBf9SR7CDELwlJ8AENk3Qn7OikK4nFYAu3Ote2+JYNVvkpAEQm3/TLNEJFD/xZJjzyxg3KBWOzw==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-to-regexp@0.1.7:
   version "0.1.7"
@@ -8902,7 +8902,7 @@ validate-npm-package-license@^3.0.1:
 
 vant@^2.2.0:
   version "2.2.0"
-  resolved "http://r.cnpmjs.org/vant/download/vant-2.2.0.tgz#d0203f76435da034ff1e9036373971554e61edbc"
+  resolved "https://r.cnpmjs.org/vant/download/vant-2.2.0.tgz#d0203f76435da034ff1e9036373971554e61edbc"
   integrity sha1-0CA/dkNdoDT/HpA2NzlxVU5h7bw=
   dependencies:
     "@babel/runtime" "7.x"
